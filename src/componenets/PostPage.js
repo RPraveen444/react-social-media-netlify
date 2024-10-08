@@ -1,4 +1,4 @@
-import { useParams, Link, useHistory } from "react-router-dom";
+import { useParams, Link } from "react-router-dom";
 import { useContext } from 'react';
 import DataContext from '../context/DataContext';
 
